@@ -1,3 +1,3 @@
 for i in range(10):
-    x = i + 1
+    x = i + 6
     print(x)
